@@ -1,0 +1,31 @@
+h1{
+    font-size: 35px;
+    color: white;
+    font-family: "Inknut Antiqua";
+
+    display: flex;
+    justify-content: center;
+    margin-top: 28px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    margin-top: 10px;
+    padding-top: 45px;
+
+    width: 32vw;
+    height: 71vh;
+
+    background-color: rgba(225, 225, 228, 0.8);
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+
+}
