@@ -9,4 +9,4 @@ create table user(
     UNIQUE (email)
 );
 
-insert into user(name, email, cor, num, animal, esporte) values('helo', 'a@a', 'roxo', '7', 'gato', 'volei');
+insert into user(name, email, cor, num, animal, esporte) values('', '', '', '', '', '');
