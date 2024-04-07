@@ -6,8 +6,6 @@ Pequeno formulário integrado ao banco de dados. <br/>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>
 </p>
 
 <br>
@@ -26,13 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 - Figma
-
-## 📔 Projeto
-
-Projeto de estudo.
-
-- [Visite o projeto online]()
-
 
 ---
 
